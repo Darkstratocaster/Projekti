@@ -41,8 +41,6 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>Q</h3>
+<p>Quit</p>
+<p>Quick-Time Event</p>

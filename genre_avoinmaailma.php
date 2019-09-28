@@ -16,13 +16,9 @@
 
 
 
-<h3>Roolipelit</h3>
-<p>EXP</p>
-<p>Class</p>
-<p>Crafting</p>
-<p>Armor</p>
-<p>Enchant</p>
-<p>Magic</p>
-<p>AoE</p>
-<p>Grindaus</p>
-<p>Heal</p>
+<h3>Avoin Maailma</h3>
+<p>Tower</p>
+<p>Border</p>
+<p>Sidequest</p>
+<p>Main Mission</p>
+<p>Endings</p>

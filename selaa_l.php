@@ -41,8 +41,8 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>L</h3>
+<p>Loadscreen</p>
+<p>Lightning</p>
+<p>Lombax</p>
+<p>Legion</p>

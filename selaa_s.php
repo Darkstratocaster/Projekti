@@ -41,8 +41,8 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>S</h3>
+<p>Special ability</p>
+<p>Supernova</p>
+<p>Shovel</p>
+<p>Scorch</p>
