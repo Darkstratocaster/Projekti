@@ -41,8 +41,8 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>H</h3>
+<p>Health</p>
+<p>Hit-Point</p>
+<p>Homing</p>
+<p>Harden</p>

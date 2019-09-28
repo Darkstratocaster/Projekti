@@ -41,8 +41,8 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>P</h3>
+<p>Possibility</p>
+<p>Persistant</p>
+<p>Pound</p>
+<p>Poltergeist</p>

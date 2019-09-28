@@ -41,8 +41,8 @@
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
 
-<h3>A</h3>
-<p>Ability</p>
-<p>Agility</p>
-<p>Assault Rifle</p>
-<p>Attack</p>
+<h3>E</h3>
+<p>Energy</p>
+<p>Earth</p>
+<p>EMP</p>
+<p>Electricity</p>

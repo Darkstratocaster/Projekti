@@ -1,0 +1,106 @@
+html,
+body{
+  height:100%;
+  width: 100%;
+}
+#Otsikko {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+}
+
+#Otsikko span{
+  font-size: 20px;
+  margin-left: 590px
+}
+
+#menu{
+  font-size: 20px;
+  background-color: grey;
+  float: top;
+  width: 3000px;
+  height: 5%;
+}
+
+#menu span{
+  margin-left: 20px;
+}
+
+#menu span{
+  margin-left: 30px;
+}
+
+#menu span{
+  margin-left: 50px;
+}
+
+#menu span{
+  margin-left: 60px;
+}
+
+#menu span{
+  margin-left: 70px;
+}
+
+#aakkosmenu{
+  background: lightgrey
+}
+
+#aakkosmenu span{
+  margin-left: 20px;
+}
+
+#genremenu{
+  background-color: lightgrey;
+  font-size: 15px;
+}
+
+#genremenu span{
+  margin-left: 10px;
+}
+
+#genremenu span{
+  margin-left: 20px;
+
+}#genremenu span{
+  margin-left: 30px;
+}
+
+#genremenu span{
+  margin-left: 50px;
+}
+
+.row{
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+#haetuimmat{
+  background-color: grey;
+  height: 35%;
+  width: 370px;
+}
+
+#haetuimmat span{
+  font-size: 20px;
+  color: orange;
+}
+
+#tietoboxi{
+background-color: grey;
+height: 100%;
+width: 350px;
+margin-right: 300px;
+}
+
+#tietoboxi span{
+font-size: 25px;
+color: orange;
+}
+#content{
+  margin-left: 50px;
+  margin-right: 50px;
+}
