@@ -23,17 +23,19 @@ selittääksesi sen toimivuutta.</p>
 
 <div id="haetuimmat">
   <div class=column>
-  <span>
+<div id="laatikkoheader">
+
+
 <h2>HAETUIMMAT TERMIT</h2>
-</span>
+</div>
 
-<li>Gänkkäys</li>
+<p>Gänkkäys</p>
 
-<li>RNG</li>
+<p>RNG</p>
 
-<li><a href="termi.php">Stunlock</a></li>
+<a href="termi.php">Stunlock</a>
 
-<li>Teabagging</li>
+<p>Teabagging</p>
 </div>
 </div>
 </div>

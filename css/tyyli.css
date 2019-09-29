@@ -81,9 +81,10 @@ body{
   background-color: grey;
   height: 35%;
   width: 370px;
+  margin-right: 50px;
 }
 
-#haetuimmat span{
+#laatikkoheader{
   font-size: 20px;
   color: orange;
 }
@@ -95,7 +96,7 @@ width: 350px;
 margin-right: 300px;
 }
 
-#tietoboxi span{
+#tietoboxiheader{
 font-size: 25px;
 color: orange;
 }

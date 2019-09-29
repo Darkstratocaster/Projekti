@@ -14,8 +14,8 @@
   <div class="column">
 <div id="tietoboxi">
 
-
-  <span><h2>stunlock</h2></span>
+<div id="tietoboxiheader">
+  <h2>stunlock</h2> </div>
   <p>Stunlock tarkoittaa tekniikkaa, jossa kohdetta</p>
   <p>vahingoitetaan toistuvasti tavalla, joka tainnuttaa</p>
   <p>kohteen. Tämä estää kohdetta liikkumasta, väistä</p>
