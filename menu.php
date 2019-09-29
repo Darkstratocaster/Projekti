@@ -23,5 +23,3 @@
     </span>
     </div>
     <div id="content">
-
-    </body>
