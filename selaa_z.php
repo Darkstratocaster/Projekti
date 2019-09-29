@@ -46,3 +46,5 @@
 <p>Zap Cannon</p>
 <p>Zubat</p>
 <p>Zone</p>
+
+<?php include "footer.php"; ?>

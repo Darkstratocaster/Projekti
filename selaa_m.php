@@ -46,3 +46,5 @@
 <p>Midget</p>
 <p>Magnitude</p>
 <p>Mortal</p>
+
+<?php include "footer.php"; ?>

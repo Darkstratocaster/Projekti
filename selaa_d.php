@@ -46,3 +46,5 @@
 <p>Death</p>
 <p>Diashow</p>
 <p>Deflect</p>
+
+<?php include "footer.php"; ?>

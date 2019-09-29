@@ -14,3 +14,5 @@ Kuvaus
 <p>Aihe</p>
 <textarea name="name" rows="1" cols="15">Liitä genre</textarea>
 <textarea name="name" rows="1" cols="15">Liitä peli</textarea>
+
+<?php include "footer.php"; ?>

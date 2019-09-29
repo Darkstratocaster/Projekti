@@ -8,3 +8,5 @@
     <li><a href="pelivalikko.ph">Counter-Strike</a></li>
     <li><a href="selaa.ph">DOTA</a></li>
 </ul>
+
+<?php include "footer.php"; ?>

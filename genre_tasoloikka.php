@@ -24,3 +24,5 @@
 <p>Level</p>
 <p>Double Jump</p>
 <p>Boss</p>
+
+<?php include "footer.php"; ?>

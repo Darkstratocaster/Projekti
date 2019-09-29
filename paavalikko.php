@@ -57,5 +57,4 @@ selittääksesi sen toimivuutta.</p>
 
 
 
-<h3>Yhteystiedot</h3>
-<h3>Sähköposti: info.pelisanakirja@gmail.com</h3>
+<?php include "footer.php"; ?>

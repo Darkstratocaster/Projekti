@@ -46,3 +46,5 @@
 <p>Wounded</p>
 <p>Whistle</p>
 <p>Warning</p>
+
+<?php include "footer.php"; ?>

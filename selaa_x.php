@@ -42,3 +42,5 @@
 </div>
 
 <h3>X</h3>
+
+<?php include "footer.php"; ?>

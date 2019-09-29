@@ -46,3 +46,5 @@
 <p>Supernova</p>
 <p>Shovel</p>
 <p>Scorch</p>
+
+<?php include "footer.php"; ?>

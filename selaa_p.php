@@ -46,3 +46,5 @@
 <p>Persistant</p>
 <p>Pound</p>
 <p>Poltergeist</p>
+
+<?php include "footer.php"; ?>

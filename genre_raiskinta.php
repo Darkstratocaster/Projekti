@@ -26,3 +26,5 @@
 <p>Acog</p>
 <p>SMG</p>
 <p>Tank</p>
+
+<?php include "footer.php"; ?>

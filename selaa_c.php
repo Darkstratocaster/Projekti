@@ -46,3 +46,4 @@
 <p>Climb</p>
 <p>Crunch</p>
 <p>Catapult</p>
+<?php include "footer.php"; ?>

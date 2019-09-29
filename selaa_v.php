@@ -46,3 +46,5 @@
 <p>Visibility</p>
 <p>Version</p>
 <p>Vulnerability</p>
+
+<?php include "footer.php"; ?>

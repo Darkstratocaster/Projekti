@@ -46,3 +46,5 @@
 <p>Lightning</p>
 <p>Lombax</p>
 <p>Legion</p>
+
+<?php include "footer.php"; ?>

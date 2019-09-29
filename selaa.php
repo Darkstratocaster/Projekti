@@ -46,3 +46,5 @@
 <p>Agility</p>
 <p>Assault Rifle</p>
 <p>Attack</p>
+
+<?php include "footer.php"; ?>

@@ -24,3 +24,4 @@
 <p>Speed</p>
 <p>Turn</p>
 <p>Acceleration</p>
+<?php include "footer.php"; ?>

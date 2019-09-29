@@ -46,3 +46,5 @@
 <p>Unreal</p>
 <p>Ultimate</p>
 <p>Unload</p>
+
+<?php include "footer.php"; ?>

@@ -20,3 +20,5 @@
 <p>Frame</p>
 <p>Glitchless</p>
 <p>100%</p>
+
+<?php include "footer.php"; ?>

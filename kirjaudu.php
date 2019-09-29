@@ -8,3 +8,5 @@
 <textarea name="name" rows="1" cols="15"></textarea>
 
 <button type="button" name="Kirjaudu">Kirjaudu</button>
+
+<?php include "footer.php"; ?>

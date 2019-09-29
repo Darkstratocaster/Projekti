@@ -22,3 +22,4 @@
 <p>Sidequest</p>
 <p>Main Mission</p>
 <p>Endings</p>
+<?php include "footer.php"; ?>

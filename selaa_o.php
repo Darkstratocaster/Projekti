@@ -46,3 +46,5 @@
 <p>Old-school</p>
 <p>Omega</p>
 <p>Original</p>
+
+<?php include "footer.php"; ?>

@@ -46,3 +46,5 @@
 <p>Fuel</p>
 <p>FPS</p>
 <p>Final Boss</p>
+
+<?php include "footer.php"; ?>

@@ -46,3 +46,5 @@
 <p>Blindness</p>
 <p>Border</p>
 <p>Buzzkill</p>
+
+<?php include "footer.php"; ?>
