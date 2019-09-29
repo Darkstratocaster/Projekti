@@ -46,3 +46,5 @@
 <p>Railgun</p>
 <p>Rifle</p>
 <p>Rampage</p>
+
+<?php include "footer.php"; ?>

@@ -21,3 +21,5 @@
 <p>Timing</p>
 <p>Order</p>
 <p>Difference</p>
+
+<?php include "footer.php"; ?>

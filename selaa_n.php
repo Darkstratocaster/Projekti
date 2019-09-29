@@ -46,3 +46,5 @@
 <p>Nanomachine</p>
 <p>Nomad</p>
 <p>Nailgun</p>
+
+<?php include "footer.php"; ?>

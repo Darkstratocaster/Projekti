@@ -24,3 +24,4 @@
 <p>Visibility</p>
 <p>Sneak</p>
 <p>Sneak Attack</p>
+<?php include "footer.php"; ?>

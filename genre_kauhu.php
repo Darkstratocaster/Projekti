@@ -25,3 +25,5 @@
 <p>Zombie</p>
 <p>Licker</p>
 <p>Puzzle</p>
+
+<?php include "footer.php"; ?>

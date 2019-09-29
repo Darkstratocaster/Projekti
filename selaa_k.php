@@ -44,3 +44,5 @@
 <h3>K</h3>
 <p>Kill</p>
 <p>Karma</p>
+
+<?php include "footer.php"; ?>

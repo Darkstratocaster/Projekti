@@ -26,3 +26,5 @@
 <p>AoE</p>
 <p>Grindaus</p>
 <p>Heal</p>
+
+<?php include "footer.php"; ?>

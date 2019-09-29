@@ -46,3 +46,5 @@
 <p>Ground</p>
 <p>Grip</p>
 <p>Grenade</p>
+
+<?php include "footer.php"; ?>

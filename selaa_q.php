@@ -44,3 +44,5 @@
 <h3>Q</h3>
 <p>Quit</p>
 <p>Quick-Time Event</p>
+
+<?php include "footer.php"; ?>

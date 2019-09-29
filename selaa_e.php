@@ -46,3 +46,5 @@
 <p>Earth</p>
 <p>EMP</p>
 <p>Electricity</p>
+
+<?php include "footer.php"; ?>

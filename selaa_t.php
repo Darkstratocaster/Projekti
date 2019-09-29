@@ -46,3 +46,5 @@
 <p>Toggle</p>
 <p>Tavern</p>
 <p>Thunder</p>
+
+<?php include "footer.php"; ?>

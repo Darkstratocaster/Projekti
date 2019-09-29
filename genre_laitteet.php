@@ -20,3 +20,5 @@
 <p>Controller</p>
 <p>Joystick</p>
 <p>Retro</p>
+
+<?php include "footer.php"; ?>

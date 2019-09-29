@@ -22,3 +22,5 @@
 <p>Toxisuus</p>
 <p>Mic-spämmäys</p>
 <p>Trollaus</p>
+
+<?php include "footer.php"; ?>

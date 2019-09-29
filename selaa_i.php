@@ -46,3 +46,5 @@
 <p>Igni</p>
 <p>Impale</p>
 <p>Illuminate</p>
+
+<?php include "footer.php"; ?>

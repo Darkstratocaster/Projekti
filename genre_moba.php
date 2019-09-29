@@ -17,3 +17,5 @@
 
 
 <h3>MOBA</h3>
+
+<?php include "footer.php"; ?>

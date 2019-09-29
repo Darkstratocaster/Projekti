@@ -46,3 +46,5 @@
 <p>Hit-Point</p>
 <p>Homing</p>
 <p>Harden</p>
+
+<?php include "footer.php"; ?>
