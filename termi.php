@@ -1,4 +1,5 @@
 <?php include "menu.php"; ?>
+<?php include "connection.php"; ?>
 
 <div class="row">
   <div class="column">
@@ -9,22 +10,30 @@
 <p>Stun</p>
 <p>Freeze</p>
 <p>Burn</p>
-
   </div>
+
   <div class="column">
-<div id="tietoboxi">
+    <br>
+  <div id="tietoboxi">
+  <div id="tietoboxiheader">
+<?php
+		$Termi=$db->query('SELECT Nimi FROM Termi WHERE Nimi=nimi');
+    foreach ($Termi as $row) {
+		echo $row['Nimi'].'<br><br>';
+  }
+    ?> </div>
 
-<div id="tietoboxiheader">
-  <h2>stunlock</h2> </div>
-  <p>Stunlock tarkoittaa tekniikkaa, jossa kohdetta</p>
-  <p>vahingoitetaan toistuvasti tavalla, joka tainnuttaa</p>
-  <p>kohteen. Tämä estää kohdetta liikkumasta, väistä</p>
-  <p>mästä, torjumasta, tai muutenkaan tekemästä</p>
-  <p>vastatoimia</p>
-  <h3>Arvioita</h3>   <p>50:6 positiivinen</p>
+      <?php
+      $Termi=$db->query('SELECT Kuvaus, UpLike, Dislike FROM Termi WHERE Nimi = nimi');
+  		foreach ($Termi as $row) {
+        echo $row['Kuvaus'].'<br> <br> <br> <br>';
+        echo $row['UpLike'].'   positiivista   <br> <br>';
+        echo $row['Dislike'].'   negatiivista';
+      }
+        ?> </div>
+      </div>
+    </div>
 
-</div>
-  </div>
-</div>
+
 
 <?php include "footer.php"; ?>

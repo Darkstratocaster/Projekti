@@ -1,11 +1,18 @@
 <?php include "menu.php"; ?>
+<?php include "connection.php"; ?>
 
 <h2>Luo termi</h2>
+
 
 <p>Nimi</p>
 <textarea name="name" rows="1" cols="15"></textarea>
 
-
+<form class="" action="add_termi.php" method="post">
+		 <input type="text" name="nimi" value="" placeholder="Nimi"> <br>
+		 <input type="text" name="kuv" value="" placeholder="Kuvaus"> <br>
+	 	<br>
+		<input type="submit" name="" value="Lisää">
+	 </form>
 <p>
 Kuvaus
 </p>
