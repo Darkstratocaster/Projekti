@@ -41,13 +41,14 @@
     <span><a href="selaa_ä.php">Ä</a></span>
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
+
 <div class="column">
   <br>
   <div id="tietoboxi">
 
 <?php
 		$Termi=$db->query('SELECT Nimi, Kuvaus, UpLike, Dislike FROM Termi WHERE
-      Nimi LIKE "Y%" ORDER BY Nimi'); foreach ($Termi as $row) {
+      Nimi LIKE "A%" ORDER BY Nimi'); foreach ($Termi as $row) {
 		  echo $row['Nimi'].' <br><br> ';
 			echo $row['Kuvaus'].' <br><br>  ';
 			echo $row['UpLike'].' positiivista <br><br>  ';
@@ -58,6 +59,11 @@
       ?>
     </div>
   </div>
-<h3>Y</h3>
+
+<h3>A</h3>
+<p>Ability</p>
+<p>Agility</p>
+<p>Assault Rifle</p>
+<p>Attack</p>
 
 <?php include "footer.php"; ?>

@@ -1,8 +1,9 @@
 <?php include "menu.php"; ?>
+<?php include "connection.php"; ?>
 
 <div id="aakkosmenu">
 
-  <span><a href="selaa.php">A</a></span>
+  <span><a href="selaa_a.php">A</a></span>
 
   <span><a href="selaa_b.php">B</a></span>
 
@@ -40,7 +41,23 @@
     <span><a href="selaa_ä.php">Ä</a></span>
     <span><a href="selaa_ö.php">Ö</a></span>
 </div>
+<div class="column">
+  <br>
+  <div id="tietoboxi">
 
+<?php
+		$Termi=$db->query('SELECT Nimi, Kuvaus, UpLike, Dislike FROM Termi WHERE
+      Nimi LIKE "M%" ORDER BY Nimi'); foreach ($Termi as $row) {
+		  echo $row['Nimi'].' <br><br> ';
+			echo $row['Kuvaus'].' <br><br>  ';
+			echo $row['UpLike'].' positiivista <br><br>  ';
+			echo $row['Dislike'].' negatiivista<br><br>  ';
+      echo '<a href="termi.php?id='.$row['Nimi'].'">Avaa</a>'.'   ';
+      echo '<a href="delete_termi.php?id='.$row['Nimi'].'">Poista</a> <br><br><br>';
+    }
+      ?>
+    </div>
+  </div>
 <h3>M</h3>
 <p>Minor</p>
 <p>Midget</p>
