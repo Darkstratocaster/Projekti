@@ -1,4 +1,6 @@
 <?php include "menu.php"; ?>
+<?php include "connection.php"; ?>
+
 <div id=genremenu>
   <span><a href="genre.php">Roolipelit</a> </span>
   <span><a href="genre_raiskinta.php">Räiskintä</a> </span>
@@ -14,7 +16,20 @@
   <span>  <a href="genre_laitteet.php">Laitteet</a> </span>
 </div>
 
+<div class="column">
+  <br>
+  <div id="tietoboxi">
 
+<?php
+		$Genre=$db->query('SELECT Genren_Nimi, Genren_kuvaus FROM Genre WHERE
+      Genren_Nimi = "Speedrun"');
+		foreach ($Genre as $row) {
+		  echo $row['Genren_Nimi'].' <br><br> ';
+			echo $row['Genren_kuvaus'].' <br><br>  ';
+    }
+      ?>
+    </div>
+  </div>
 
 <h3>Speedrun</h3>
 <p>Frame</p>

@@ -8,9 +8,8 @@
 <textarea name="name" rows="1" cols="15"></textarea>
 
 <form class="" action="add_termi.php" method="post">
-		 <input type="text" name="nimi" value="" placeholder="Nimi"> <br>
-		 <input type="text" name="kuv" value="" placeholder="Kuvaus"> <br>
-	 	<br>
+		 <input type="text" name="nimi" value="" placeholder="Nimi" required> <br>
+		 <input type="text" name="kuv" value="" placeholder="Kuvaus" required> <br>
 		<input type="submit" name="" value="Lisää">
 	 </form>
 <p>
