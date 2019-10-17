@@ -9,7 +9,8 @@
     <div id="Otsikko">
       Videopelisanakirja
         <span> <a href="kirjaudu.php">Kirjaudu sisään</a>
-              <a href="rekisteroidy.php">Rekisteröidy</a>
+              <a href="create_user.php">Rekisteröidy</a>
+              <a href="logout.php">Kirjaudu ulos</a>
         </span>
     </div>
     <div id="menu">
